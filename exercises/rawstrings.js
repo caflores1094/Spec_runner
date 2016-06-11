@@ -21,7 +21,6 @@ Give back ("return") the input string "concatenated" with
 the raw string provided
 */
 var bridgeString1 = function(myInputString) {
-  
-
-  return (myInputString + 'I wish I could code  in javascript all day, every day!');
+ 
+  return myInputString + "I wish I could code  in javascript all day, every day!";
 };
